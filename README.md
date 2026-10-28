@@ -1,3 +1,5 @@
+Repository: https://github.com/brindasakthivel5-a11y/Assessment-Submission
+
 # Sauce Demo – Shop and Check Out test suite
 
 Playwright + TypeScript. Manual design is in `TEST_CASES.md`, written answers in `ANSWERS.md`, AI use in `AI_USAGE.md`. Target: https://www.saucedemo.com (public practice site only).
